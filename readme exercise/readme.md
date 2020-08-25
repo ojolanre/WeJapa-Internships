@@ -3,7 +3,7 @@
 ## Readme Generator with node.js
 This is a node.js app that takes user input and creates a good readme.md file for your code repository
 ## Table of Contents 
- + Usage
+ - Usage
  - License
  - Contributing
  - Authors
