@@ -24,7 +24,7 @@ https.get('https://coderbyte.com/api/challenges/json/json-cleaning', (resp) => {
       } else if (val !== " " || val !== "N/A" || val !== "-") {
         console.log(val);
       }
-    });;
+    });
     // console.log(meetArr);
   });
 
